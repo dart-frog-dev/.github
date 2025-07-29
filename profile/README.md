@@ -1,12 +1,15 @@
-## Welcome to the Dart Frog Organization 🐸!
+## Welcome to Dart Frog 👋
 
-<!--
+### Goals 🎯
 
-**Here are some ideas to get you started:**
+Dart Frog aims to help developers effectively build backends in Dart.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+It is built on top of [shelf](https://pub.dev/packages/shelf) and [mason](https://pub.dev/packages/mason) and is inspired by many tools including [remix.run](https://remix.run), [next.js](https://nextjs.org), and [express.js](https://expressjs.com).
+
+### Documentation 📝
+
+For official documentation, please visit https://dart-frog.dev
+
+### Join the Community 💬
+
+Chat with the community on [Discord](https://discord.gg/jc8pa4ew5E).
