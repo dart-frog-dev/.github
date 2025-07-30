@@ -12,4 +12,4 @@ For official documentation, please visit https://dart-frog.dev
 
 ### Join the Community 💬
 
-Chat with the community on [Discord](https://discord.gg/jc8pa4ew5E).
+Chat with the community on [Discord](https://discord.gg/dart-frog).
