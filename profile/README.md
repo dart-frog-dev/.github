@@ -22,4 +22,4 @@ Chat with the community on [Discord][discord_link].
 [dart_badge]: https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=5BB4F0&color=1E2833
 [dart_link]: https://dart.dev
 [discord_badge]: https://img.shields.io/discord/1394707782271238184?style=for-the-badge&logo=discord&color=1C2A2E&logoColor=1DF9D2
-[discord_link]: https://discord.gg/dart-frog
+[discord_link]: https://dart-frog.dev/discord
